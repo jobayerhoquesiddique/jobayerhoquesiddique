@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Agency]([nexusstudio](https://knotty-basket-a26.notion.site/Nexus-Creative-Studio-22776083f2a480989fc9f36fa063b4e8?pvs=74))
 
-- 👨‍💻 All of my projects are available at [linktree.com/jobayerhoquesiddique](linktree.com/jobayerhoquesiddique)
+- 👨‍💻 All of my projects are available at [[linktree.com/jobayerhoquesiddique](linktree.com/jobayerhoquesiddique](https://linktr.ee/jobayerhoque))
 
 - 📝 I regularly write articles on [agency]([agency](https://knotty-basket-a26.notion.site/Nexus-Creative-Studio-22776083f2a480989fc9f36fa063b4e8?pvs=74))
 
