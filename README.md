@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jobayer Hoque Siddique</h1>
 <h3 align="center">I'm a passionate software developer with a knack for building scalable, user-centric applications. I thrive on solving complex problems, contributing to open-source projects, and continuously learning new technologies. Whether it's crafting clean code or architecting robust systems, I'm here to make an impact!</h3>
 
-- 🔭 I’m currently working on [AI, Software & Web, and Blockchain Development](nexusstudio)
+- 🔭 I’m currently working on [AI, Software & Web, and Blockchain Development]([nexusstudio](https://knotty-basket-a26.notion.site/Nexus-Creative-Studio-22776083f2a480989fc9f36fa063b4e8?pvs=74))
 
 - 🌱 I’m currently learning **Web3, Machine Learing**
 
-- 👯 I’m looking to collaborate on [Agency](nexusstudio)
+- 👯 I’m looking to collaborate on [Agency]([nexusstudio](https://knotty-basket-a26.notion.site/Nexus-Creative-Studio-22776083f2a480989fc9f36fa063b4e8?pvs=74))
 
 - 👨‍💻 All of my projects are available at [linktree.com/jobayerhoquesiddique](linktree.com/jobayerhoquesiddique)
 
-- 📝 I regularly write articles on [agency](agency)
+- 📝 I regularly write articles on [agency]([agency](https://knotty-basket-a26.notion.site/Nexus-Creative-Studio-22776083f2a480989fc9f36fa063b4e8?pvs=74))
 
 - 💬 Ask me about **Next, Vue, Data, Internet & Web**
 
