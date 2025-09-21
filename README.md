@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Hey+There%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;%24100K%2FMonth+Founder+%F0%9F%9A%80;Tech+Innovator+%26+System+Builder;Scaling+Multiple+Revenue+Streams" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Hey+There%2C+I'm+Jobayer+Hoque+Siddique+%F0%9F%91%8B;%24100K%2FMonth+Founder+%F0%9F%9A%80;Tech+Innovator+%26+System+Builder;Scaling+Multiple+Revenue+Streams" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -8,9 +8,9 @@
 
 <div align="center">
     
-![](https://komarev.com/ghpvc/?username=your-username&color=dc143c&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=for-the-badge&color=orange)
-![GitHub User's stars](https://img.shields.io/github/stars/your-username?style=for-the-badge&color=yellow)
+![](https://komarev.com/ghpvc/?username=jobayerhoquesiddique&color=dc143c&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/jobayerhoquesiddique?style=for-the-badge&color=orange)
+![GitHub User's stars](https://img.shields.io/github/stars/jobayerhoquesiddique?style=for-the-badge&color=yellow)
 
 </div>
 
@@ -22,24 +22,24 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_rank=true&theme=radical&include_all_commits&show_owner&bg_color=0,ff6b35,f7931e&title_color=fff&text_color=fff)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical&background=DD0000&ring=FF6B35&fire=FFFF00&currStreakLabel=FFFFFF)](https://github.com/your-username)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jobayerhoquesiddique&show_icons=true&hide_rank=true&theme=radical&include_all_commits&show_owner&bg_color=0,ff6b35,f7931e&title_color=fff&text_color=fff)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jobayerhoquesiddique&theme=radical&background=DD0000&ring=FF6B35&fire=FFFF00&currStreakLabel=FFFFFF)](https://github.com/jobayerhoquesiddique)
 
 <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200"/>
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/aa2616fbfea54ac4a8cf5fdc8978b0eb)](https://www.codacy.com/gh/your-username/your-username/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=your-username/your-username&amp;utm_campaign=Badge_Grade) 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/your-username/your-username?style=for-the-badge&color=red) 
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-username?style=for-the-badge&color=orange)
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-username?style=for-the-badge&color=yellow)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/aa2616fbfea54ac4a8cf5fdc8978b0eb)](https://www.codacy.com/gh/jobayerhoquesiddique/jobayerhoquesiddique/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jobayerhoquesiddique/jobayerhoquesiddique&amp;utm_campaign=Badge_Grade) 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jobayerhoquesiddique/jobayerhoquesiddique?style=for-the-badge&color=red) 
+![GitHub last commit](https://img.shields.io/github/last-commit/jobayerhoquesiddique/jobayerhoquesiddique?style=for-the-badge&color=orange)
+![GitHub repo size](https://img.shields.io/github/repo-size/jobayerhoquesiddique/jobayerhoquesiddique?style=for-the-badge&color=yellow)
 
 </div>
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=your-username&theme=redical&bg_color=ff6b35&color=ffffff&line=ffff00&point=ffffff&area=true&hide_border=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=jobayerhoquesiddique&theme=redical&bg_color=ff6b35&color=ffffff&line=ffff00&point=ffffff&area=true&hide_border=true" />
 </div>
 
-<a href="https://github.com/your-username/your-username/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/your-username/your-username?color=red&style=for-the-badge" /> 
+<a href="https://github.com/jobayerhoquesiddique/jobayerhoquesiddique/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/jobayerhoquesiddique/jobayerhoquesiddique?color=red&style=for-the-badge" /> 
 
 ## 💼 Active Growth Engines
 
@@ -108,7 +108,7 @@
 ## Most Used Technologies
 <div align="center">
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=10&theme=radical&bg_color=0,ff6b35,f7931e&title_color=fff&text_color=fff)](https://github.com/your-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobayerhoquesiddique&layout=compact&langs_count=10&theme=radical&bg_color=0,ff6b35,f7931e&title_color=fff&text_color=fff)](https://github.com/jobayerhoquesiddique)
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
 
@@ -180,12 +180,24 @@
 
 <div align="center">
     
-<a href="https://linkedin.com/in/your-profile">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://twitter.com/your-handle">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
-<a href="mailto:your-email@domain.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://telegram.me/your-handle">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-<a href="https://discord.gg/your-server">![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a>
-<a href="https://youtube.com/your-channel">![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/jobayer-hoque-siddique-58367a37a/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://x.com/jobayerhoqsidqe">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="mailto:jobayerhoquesiddique@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.fiverr.com/users/jobayer_hs/">![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)</a>
+<a href="https://www.upwork.com/freelancers/~01d2225d83167d90b8?mp_source=share">![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)</a>
+<a href="https://jhsresume.my.canva.site/">![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=canva&logoColor=white)</a>
+
+</div>
+
+**🏢 Nexus Creative Studio Links:**
+<div align="center">
+    
+<a href="mailto:nexxusstudio.agency@gmail.com">![Studio Email](https://img.shields.io/badge/Studio_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://x.com/nexuscrativeio">![Studio X](https://img.shields.io/badge/Studio_X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="https://github.com/nexxusstudio">![Studio GitHub](https://img.shields.io/badge/Studio_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://pro.fiverr.com/nexusstudioagen">![Fiverr Pro](https://img.shields.io/badge/Fiverr_Pro-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)</a>
+<a href="https://www.upwork.com/NexusStudio/">![Studio Upwork](https://img.shields.io/badge/Studio_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)</a>
+<a href="https://jobayerhoque.notion.site/Nexus-Creative-Studio-268fdaa720f2803fa5d7deca6ec4517a?pvs=74">![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)</a>
 
 </div>
 
@@ -194,11 +206,11 @@
     <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="400"/>
 </div>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=redical&bg_color=ff6b35&color=ffffff&line=ffff00&point=ffffff&area=true&hide_border=true)](https://github.com/your-username)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jobayerhoquesiddique&theme=redical&bg_color=ff6b35&color=ffffff&line=ffff00&point=ffffff&area=true&hide_border=true)](https://github.com/jobayerhoquesiddique)
 
 <div align="center">
     
-![snake gif](https://github.com/your-username/your-username/raw/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/jobayerhoquesiddique/jobayerhoquesiddique/raw/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300"/>
 
@@ -207,7 +219,7 @@
 ## 📈 GitHub Trophies
 <div align="center">
     
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jobayerhoquesiddique&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
